@@ -1,0 +1,12 @@
+## Interface: 70000
+## Title: Broker: Memory
+## Notes: AddOn memory usage for LDB
+## Author: RiskyNet
+## Version: 1.0
+## X-Category: Miscellaneous
+
+## OptionalDependencies: Ace3, LibQTip-1.0
+
+embeds.xml
+
+Core.lua
