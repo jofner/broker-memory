@@ -1,4 +1,4 @@
-## Interface: 70000
+## Interface: 70100
 ## Title: Broker: Memory
 ## Notes: AddOn memory usage for LDB
 ## Author: RiskyNet
