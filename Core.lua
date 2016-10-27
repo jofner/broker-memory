@@ -1,4 +1,4 @@
--- Quest-o-matic
+-- Broker: Memory
 -- Author RiskyNet <riskynet@gmail.com>
 -- Big thanks to author of StatBlock_Memory AddOn for inspiration
 
